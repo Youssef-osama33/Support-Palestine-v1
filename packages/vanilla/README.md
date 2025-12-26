@@ -27,7 +27,7 @@
 ضع هذا الكود قبل إغلاق `</body>` مباشرة:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/YOUR_USERNAME/palestine-footer@main/packages/vanilla/src/palestine-footer.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Youssef-osama33/Support-Palestine-@main/packages/vanilla/src/palestine-footer.js"></script>
 ```
 
 ### الطريقة 2: تحميل الملف
@@ -65,7 +65,7 @@ npm install palestine-footer-vanilla
     <p>محتوى الصفحة...</p>
     
     <!-- Palestine Footer -->
-    <script src="https://cdn.jsdelivr.net/gh/YOUR_USERNAME/palestine-footer@main/packages/vanilla/src/palestine-footer.js"></script>
+     <script src="https://cdn.jsdelivr.net/gh/Youssef-osama33/Support-Palestine-@main/packages/vanilla/src/palestine-footer.js"></script>
 </body>
 </html>
 ```
@@ -79,7 +79,7 @@ npm install palestine-footer-vanilla
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│       جميع الحقوق محفوظة © 2024 لـ EXAMPLE.COM             │
+│       جميع الحقوق محفوظة © 2026 لـ EXAMPLE.COM             │
 │       • نحن نقف مع فلسطين حرة من النهر إلى البحر •          │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
@@ -95,7 +95,7 @@ npm install palestine-footer-vanilla
 
 ```javascript
 // السطر 67-68
-const currentYear = 2024; // غيّر السنة هنا
+const currentYear = 2026; // غيّر السنة هنا
 const hostName = "موقع فلسطين"; // غيّر اسم الموقع هنا
 ```
 
@@ -146,7 +146,7 @@ background: #E4312B; // لون النقاط
 
 ```bash
 # استنساخ المستودع
-git clone https://github.com/yourusername/palestine-footer.git
+git clone https://github.com/Youssef-osama33/palestine-footer.git
 
 # الانتقال للمجلد
 cd palestine-footer/packages/vanilla
@@ -231,17 +231,6 @@ MIT License - يمكنك استخدام هذا الكود بحرية في أي �
 
 ---
 
-## 👨‍💻 المطور | Author
-
-**Yusuf Osama**
-
-- 🌐 Website: [your-website.com](https://your-website.com)
-- 💼 LinkedIn: [linkedin.com/in/yusufosama](https://linkedin.com/in/yusufosama)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 📧 Email: your-email@example.com
-
----
-
 ## 🙏 شكر وتقدير | Acknowledgments
 
 - شكراً لكل من يدعم القضية الفلسطينية 🇵🇸
@@ -254,8 +243,8 @@ MIT License - يمكنك استخدام هذا الكود بحرية في أي �
 
 - [Documentation](../../docs/)
 - [Examples](./examples/)
-- [Issues](https://github.com/yourusername/palestine-footer/issues)
-- [Discussions](https://github.com/yourusername/palestine-footer/discussions)
+- [Issues](https://github.com/Youssef-osama33/palestine-footer/issues)
+- [Discussions](https://github.com/Youssef-osama33/palestine-footer/discussions)
 
 ---
 
@@ -272,8 +261,8 @@ MIT License - يمكنك استخدام هذا الكود بحرية في أي �
 هل تحتاج مساعدة؟
 
 - 📖 اقرأ الـ [Documentation](../../docs/)
-- 💬 افتح [Discussion](https://github.com/yourusername/palestine-footer/discussions)
-- 🐛 أبلغ عن [Bug](https://github.com/yourusername/palestine-footer/issues)
+- 💬 افتح [Discussion](https://github.com/Youssef-osama33/Support-Palestine-/discussions)
+- 🐛 أبلغ عن [Bug](https://github.com/Youssef-osama33/Support-Palestine-/issues)
 
 ---
 
