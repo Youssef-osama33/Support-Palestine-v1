@@ -1,0 +1,50 @@
+{
+  "name": "palestine-footer-vanilla",
+  "version": "1.0.0",
+  "description": "🇵🇸 Palestine Footer Component - Pure Vanilla JavaScript with zero dependencies",
+  "main": "dist/palestine-footer.min.js",
+  "module": "src/palestine-footer.js",
+  "scripts": {
+    "build": "npm run build:js && npm run build:min",
+    "build:js": "mkdir -p dist && cp src/palestine-footer.js dist/palestine-footer.js",
+    "build:min": "terser src/palestine-footer.js -o dist/palestine-footer.min.js -c -m",
+    "dev": "live-server --port=3000",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "palestine",
+    "footer",
+    "vanilla-js",
+    "javascript",
+    "solidarity",
+    "palestine-support",
+    "web-component",
+    "no-dependencies",
+    "lightweight"
+  ],
+  "author": {
+    "name": "Yusuf Osama",
+    "email": "yossef2319128@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/youssef-osama-53360a2a1/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Youssef-osama33/Support-Palestine.git",
+    "directory": "packages/vanilla"
+  },
+  "bugs": {
+    "url": "https://github.com/Youssef-osama33/Support-Palestine-/issues"
+  },
+  "homepage": "https://github.com/Youssef-osama33/Support-Palestine-/tree/main/packages/vanilla#readme",
+  "files": [
+    "dist",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "devDependencies": {
+    "terser": "^5.19.0",
+    "live-server": "^1.2.2"
+  }
+}
