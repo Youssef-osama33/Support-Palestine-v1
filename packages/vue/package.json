@@ -1,0 +1,54 @@
+{
+  "name": "palestine-footer-vue",
+  "version": "1.0.0",
+  "description": "🇵🇸 Palestine Footer Component for Vue 3 - Show solidarity with Palestine",
+  "main": "dist/palestine-footer.umd.js",
+  "module": "dist/palestine-footer.esm.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "test": "vitest",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "palestine",
+    "footer",
+    "vue",
+    "vue3",
+    "vue-component",
+    "solidarity",
+    "palestine-support",
+    "composition-api"
+  ],
+  "author": {
+    "name": "Yusuf Osama",
+    "email": "your-email@example.com",
+    "url": "https://your-website.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Youssef-osama33/Support-Palestine-.git",
+    "directory": "packages/vue"
+  },
+  "bugs": {
+    "url": "https://github.com/Youssef-osama33/Support-Palestine-/issues"
+  },
+  "homepage": "https://github.com/Youssef-osama33/Support-Palestine-/tree/main/packages/vue#readme",
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.0",
+    "@vue/test-utils": "^2.3.0",
+    "typescript": "^5.1.0",
+    "vite": "^4.3.0",
+    "vitest": "^0.32.0",
+    "vue": "^3.3.0"
+  }
+}
