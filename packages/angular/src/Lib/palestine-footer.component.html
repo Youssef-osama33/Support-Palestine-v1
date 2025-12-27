@@ -1,0 +1,20 @@
+<footer 
+  class="ps-footer-angular"
+  [style.background]="backgroundColor"
+  [style.color]="textColor"
+  role="contentinfo"
+  aria-label="Palestine Support Footer"
+>
+  <div class="ps-footer-wrapper">
+    <p class="ps-copyright">
+      جميع الحقوق محفوظة © 
+      <span class="ps-year">{{ currentYear }}</span> لـ 
+      <span class="ps-host-name">{{ upperHostName }}</span>
+    </p>
+    <div *ngIf="showMessage" class="ps-solidarity-line">
+      <span class="ps-dot"></span>
+      <span class="ps-palestine-text">{{ displayMessage }}</span>
+      <span class="ps-dot"></span>
+    </div>
+  </div>
+</footer>
